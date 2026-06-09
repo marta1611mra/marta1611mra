@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">🌸 Hi there! I'm Marta!</h1>
 
-<!--
-**marta1611mra/marta1611mra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <code>Software Engineering Student @ UMinho</code> • <code>2nd Year</code>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 My Tech Stack
+
+### 💡 Software & Logic
+![C](https://img.shields.io/badge/C-232323?style=for-the-badge&logo=c&logoColor=FFB7C5)
+![Java](https://img.shields.io/badge/Java-232323?style=for-the-badge&logo=openjdk&logoColor=FFB7C5)
+![Haskell](https://img.shields.io/badge/Haskell-232323?style=for-the-badge&logo=haskell&logoColor=FFB7C5)
+
+### 🗄️ Databases & Web (If applicable)
+![SQL](https://img.shields.io/badge/SQL-232323?style=for-the-badge&logo=sqlite&logoColor=FFB7C5)
+
+---
+
+## 🌍 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-232323?style=for-the-badge&logo=gmail&logoColor=FFB7C5)](mailto:martinharaujo16@hotmail.com)
