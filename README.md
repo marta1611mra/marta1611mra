@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hi there! I'm Marta!</h1>
+<h1 align="center">💜 Hi there! I'm Marta!</h1>
 
 <p align="center">
   <code>Software Engineering Student @ UMinho</code> • <code>2nd Year</code>
@@ -6,18 +6,17 @@
 
 ---
 
-## 🌸 My Tech Stack
+## 🔮 My Lilac Stack
 
-### 💡 Software & Logic
-![C](https://img.shields.io/badge/C-232323?style=for-the-badge&logo=c&logoColor=FFB7C5)
-![Java](https://img.shields.io/badge/Java-232323?style=for-the-badge&logo=openjdk&logoColor=FFB7C5)
-![Haskell](https://img.shields.io/badge/Haskell-232323?style=for-the-badge&logo=haskell&logoColor=FFB7C5)
+### 💻 Core Software
+![C](https://img.shields.io/badge/C-232323?style=for-the-badge&logo=c&logoColor=D6B2FA)
+![Java](https://img.shields.io/badge/Java-232323?style=for-the-badge&logo=openjdk&logoColor=D6B2FA)
+![Haskell](https://img.shields.io/badge/Haskell-232323?style=for-the-badge&logo=haskell&logoColor=D6B2FA)
 
-### 🗄️ Databases & Web (If applicable)
-![SQL](https://img.shields.io/badge/SQL-232323?style=for-the-badge&logo=sqlite&logoColor=FFB7C5)
+### 🛠️ Systems & Tools
+![SQL](https://img.shields.io/badge/SQL-232323?style=for-the-badge&logo=sqlite&logoColor=D6B2FA)
 
 ---
+## 🪐 Let's Connect
 
-## 🌍 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-232323?style=for-the-badge&logo=gmail&logoColor=FFB7C5)](mailto:martinharaujo16@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-232323?style=for-the-badge&logo=gmail&logoColor=D6B2FA)](mailto:martinharaujo16@hotmail.com)
