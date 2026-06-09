@@ -1,4 +1,4 @@
-<h1 align="center">💜 Hi there! I'm Marta!</h1>
+<h1 align="center">🧚🏼‍♀️ Hi there! I'm Marta!</h1>
 
 <p align="center">
   <code>Software Engineering Student @ UMinho</code> • <code>2nd Year</code>
